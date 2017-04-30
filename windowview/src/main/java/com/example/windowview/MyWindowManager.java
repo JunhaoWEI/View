@@ -33,7 +33,6 @@ public class MyWindowManager {
         if (smallWindow == null) {
             smallWindow = new FloatWindowSmallView(applicationContext);
             if (smallWindowParams == null) {
-                smallWindowParams = new ViewGroup.LayoutParams()
             }
         }
     }
