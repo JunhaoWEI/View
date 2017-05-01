@@ -1,1 +1,1 @@
-include ':app', ':windowview', ':ppchart'
+include ':app', ':windowview', ':ppchart', ':circleview'
